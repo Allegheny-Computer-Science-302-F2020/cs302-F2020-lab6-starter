@@ -10,7 +10,7 @@
 * [Assignment Reminders](#assignment-reminders)
 * [Accessing the Assignment](#accessing-the-assignment)
 * [Laboratory Assignment Tasks](#laboratory-assignment-tasks)
-  + [Using HTML and CSS to Implement and Style Tabular Data](#using-html-and-css-to-implement-and-style-tabular-data)
+  + [Using HTML and CSS to Implement and Style a Web Form](#using-html-and-css-to-implement-and-style-a-web-form)
   + [Running a Web Server](#running-a-web-server)
   + [Reflecting on the Laboratory Assignment](#reflecting-on-the-laboratory-assignment)
   + [Transferring Your Source code and Technical Writing to GitHub](#transferring-your-source-code-and-technical-writing-to-github)
@@ -178,7 +178,7 @@ your discoveries to a student technical leader.
 
 ## Laboratory Assignment Tasks
 
-### Using HTML and CSS to Implement and Style Tabular Data
+### Using HTML and CSS to Implement and Style a Web Form
 
 This assignment invites you to learn how to write HTML and CSS files that
 include headers, content, tags, style rules, and a form, specifically
